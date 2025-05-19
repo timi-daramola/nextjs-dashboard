@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/node_modules copy
+/node_modules_copy
 /.pnp
 .pnp.js
 
